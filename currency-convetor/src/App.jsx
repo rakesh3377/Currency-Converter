@@ -84,7 +84,7 @@ const handletocurrency = (e) => {
             </select>
           </div>
           <div className="result">
-            <p>{Amount} {fromcurrency} is equal to {convertedamount} {tocurrency}</p>
+            <p><span>{Amount}</span> {fromcurrency} is equal to <span>{convertedamount}</span> {tocurrency}</p>
           </div>
         </div>
       </div>

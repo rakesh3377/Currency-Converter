@@ -80,4 +80,10 @@ select:focus{
   color: #3489db;
   font-weight: bold;
   text-align: center;
+  font-size: large;
+}
+
+span{
+  font-size: 20px;
+  color: green;
 }
